@@ -1,6 +1,6 @@
 # Vietnamese-face-classification-and-beauty-skin
 ## Overview
-- In this project, we implement classification and beauty skin in Vietnamese face.
+- In this project, we implement classification and beauty skin in Vietnamese faces.
 - Vietnamese face dataset: https://drive.google.com/drive/folders/1axQd3eCvLjuApq5ldGgkQZuvqnqJ8mA9?usp=sharing
 - Foreigner face dataset: https://wywu.github.io/projects/LAB/WFLW.html
 - Using [OpenFace](https://cmusatyalab.github.io/openface/) pretrained model to extract feature embedding vector.
